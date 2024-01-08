@@ -1,0 +1,65 @@
+{
+  "id": 18148,
+  "titles": [
+    {
+      "iso_3166_1": "US",
+      "title": "Tokyo Story",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "ES",
+      "title": "Cuentos de Tokyo",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "PL",
+      "title": "Tokijska opowiesc",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "东京故事",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "JP",
+      "title": "Tôkyô monogatari",
+      "type": "Romaji"
+    },
+    {
+      "iso_3166_1": "BG",
+      "title": "Токийска история",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "DE",
+      "title": "Die Reise nach Tokyo",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "SE",
+      "title": "Tokyo Story",
+      "type": "Distribution title"
+    },
+    {
+      "iso_3166_1": "FR",
+      "title": "Voyage à Tokyo",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "KR",
+      "title": "동경 이야기",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "UA",
+      "title": "Токійська повість",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "HK",
+      "title": "東京物語",
+      "type": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+name: unit tests
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+
+jobs:
+  test:
+    name: unit tests
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install Go
+      uses: actions/setup-go@v4
+      with:
+        go-version-file: 'go.mod'
+
+    - name: Download go modules
+      run: go mod download
+
+    - name: Mod verify
+      run: go mod verify
+
+    - name: Run unit tests
+      run: go test -v -race ./tmdb/...

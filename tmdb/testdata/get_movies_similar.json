@@ -1,0 +1,392 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/lh5lbisD4oDbEKgUxoRaZU8HVrk.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 272,
+      "original_language": "en",
+      "original_title": "Batman Begins",
+      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "popularity": 64.904,
+      "poster_path": "/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+      "release_date": "2005-06-10",
+      "title": "Batman Begins",
+      "video": false,
+      "vote_average": 7.703,
+      "vote_count": 19919
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zSFuvi6fIPT8CHpH1KMG25T2Iub.jpg",
+      "genre_ids": [
+        80,
+        18,
+        878,
+        53
+      ],
+      "id": 281,
+      "original_language": "en",
+      "original_title": "Strange Days",
+      "overview": "Former policeman Lenny Nero has moved into a more lucrative trade: the illegal sale of virtual reality-like recordings that allow users to experience the emotions and past experiences of others. While they typically contain tawdry incidents, Nero is shocked when he receives one showing a murder.",
+      "popularity": 18.514,
+      "poster_path": "/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+      "release_date": "1995-10-13",
+      "title": "Strange Days",
+      "video": false,
+      "vote_average": 6.996,
+      "vote_count": 1217
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 284,
+      "original_language": "en",
+      "original_title": "The Apartment",
+      "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+      "popularity": 30.761,
+      "poster_path": "/tIZN5Lpd8MWFKHXDRIXTjlSA22L.jpg",
+      "release_date": "1960-06-21",
+      "title": "The Apartment",
+      "video": false,
+      "vote_average": 8.216,
+      "vote_count": 2081
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 289,
+      "original_language": "en",
+      "original_title": "Casablanca",
+      "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+      "popularity": 30.482,
+      "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+      "release_date": "1943-01-15",
+      "title": "Casablanca",
+      "video": false,
+      "vote_average": 8.168,
+      "vote_count": 5051
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bHePzkyRcMhnab2qZbhj1bCElnf.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14
+      ],
+      "id": 300,
+      "original_language": "fr",
+      "original_title": "La Science des rêves",
+      "overview": "A man entranced by his dreams and imagination is lovestruck with a French woman and feels he can show her his world.",
+      "popularity": 14.749,
+      "poster_path": "/1qCq228LsNtUseCnNE7Naw6NBUz.jpg",
+      "release_date": "2006-06-25",
+      "title": "The Science of Sleep",
+      "video": false,
+      "vote_average": 7.022,
+      "vote_count": 711
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 338,
+      "original_language": "de",
+      "original_title": "Good Bye, Lenin!",
+      "overview": "Alex Kerner's mother was in a coma while the Berlin wall fell. When she wakes up he must try to keep her from learning what happened (as she was an avid communist supporter) to avoid shocking her which could lead to another heart attack.",
+      "popularity": 12.704,
+      "poster_path": "/2QlsdRwkug30lw6DAWG8pxmMuFQ.jpg",
+      "release_date": "2003-02-13",
+      "title": "Good Bye, Lenin!",
+      "video": false,
+      "vote_average": 7.552,
+      "vote_count": 2253
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Ldf2rbtTpIvars9mf896XhFMvq.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 347,
+      "original_language": "de",
+      "original_title": "Menschen am Sonntag",
+      "overview": "A semi-documentary experimental 1930 German silent film created by amateurs with a small budget. With authentic scenes of the metropolis city of Berlin, it's the first film from the later famous screenwriters/directors Billy Wilder and Fred Zinnemann.",
+      "popularity": 4.688,
+      "poster_path": "/gWIkCmYaRDlA78WMIfRUlURuLCZ.jpg",
+      "release_date": "1930-02-04",
+      "title": "People on Sunday",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 88
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w6He2Tnxatr717Qm6lxCtno8SeZ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 351,
+      "original_language": "de",
+      "original_title": "Sehnsucht",
+      "overview": "An average, everyday metalworker and volunteer firefighter content in his marriage to his childhood sweetheart finds his emotions unexpectedly stirred when he falls for a pretty waitress from a nearby town.",
+      "popularity": 1.534,
+      "poster_path": "/sRihbZIwNLXDyv5OC6wDWPSGhEM.jpg",
+      "release_date": "2006-02-15",
+      "title": "Longing",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 389,
+      "original_language": "en",
+      "original_title": "12 Angry Men",
+      "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+      "popularity": 47.739,
+      "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+      "release_date": "1957-04-10",
+      "title": "12 Angry Men",
+      "video": false,
+      "vote_average": 8.546,
+      "vote_count": 7920
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gBn3af5QvQARNZEFlvYjFO268I7.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 398,
+      "original_language": "en",
+      "original_title": "Capote",
+      "overview": "A biopic of writer Truman Capote and his assignment for The New Yorker to write the non-fiction book \"In Cold Blood\".",
+      "popularity": 17.168,
+      "poster_path": "/k7z0tDxzbDNev7F8l3Y56Pk5seR.jpg",
+      "release_date": "2005-09-30",
+      "title": "Capote",
+      "video": false,
+      "vote_average": 6.991,
+      "vote_count": 1327
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fvUWuX1S9CPd3ojPj2TvY371ln9.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1093215,
+      "original_language": "th",
+      "original_title": "เพื่อน (ไม่) สนิท",
+      "overview": "A group of high school students, fueled by their shared passion for filmmaking, sets out to create a short film based on the life of their beloved classmate. Little do they know, their endeavor will lead them to uncover their friend’s hidden secrets that could change their perspective on their passion forever.",
+      "popularity": 3.883,
+      "poster_path": "/i3uTKXGNRrRCeCNIFvmpmDCmo5b.jpg",
+      "release_date": "2023-10-26",
+      "title": "Not Friends",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ocmMSLIHk44Of9k8quQUF4hR8lU.jpg",
+      "genre_ids": [
+        878,
+        18,
+        9648
+      ],
+      "id": 167,
+      "original_language": "en",
+      "original_title": "K-PAX",
+      "overview": "Prot is a patient at a mental hospital who claims to be from a far away planet. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+      "popularity": 19.414,
+      "poster_path": "/tafXZX0I6rso7EyoEzfygfTqxq6.jpg",
+      "release_date": "2001-10-22",
+      "title": "K-PAX",
+      "video": false,
+      "vote_average": 7.193,
+      "vote_count": 2225
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vr9xAWJeIkYJWAYmIov5WNHEAf6.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        53,
+        9648
+      ],
+      "id": 182,
+      "original_language": "en",
+      "original_title": "The Good German",
+      "overview": "An American journalist arrives in Berlin just after the end of World War Two. He becomes involved in a murder mystery surrounding a dead GI who washes up at a lakeside mansion during the Potsdam negotiations between the Allied powers. Soon his investigation connects with his search for his married pre-war German lover.",
+      "popularity": 10.674,
+      "poster_path": "/3LjHC2CWDkzoiPehf3GViujws0.jpg",
+      "release_date": "2006-12-15",
+      "title": "The Good German",
+      "video": false,
+      "vote_average": 5.741,
+      "vote_count": 286
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 207,
+      "original_language": "en",
+      "original_title": "Dead Poets Society",
+      "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+      "popularity": 55.16,
+      "poster_path": "/hmGAF5NDoYB6S39UONevjHCESOI.jpg",
+      "release_date": "1989-06-02",
+      "title": "Dead Poets Society",
+      "video": false,
+      "vote_average": 8.313,
+      "vote_count": 10525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vzkueeO7XwkziTDla4ncF6H4laQ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 228,
+      "original_language": "de",
+      "original_title": "Der blaue Engel",
+      "overview": "Prim professor Immanuel Rath finds some of his students ogling racy photos of cabaret performer Lola Lola and visits a local club, The Blue Angel, in an attempt to catch them there. Seeing Lola perform, the teacher is filled with lust, eventually resigning his position at the school to marry the young woman. However, his marriage to a coquette -- whose job is to entice men -- proves to be more difficult than Rath imagined.",
+      "popularity": 9.499,
+      "poster_path": "/3FStCU5ipNGmwASfHVP282IO39z.jpg",
+      "release_date": "1930-04-01",
+      "title": "The Blue Angel",
+      "video": false,
+      "vote_average": 7.347,
+      "vote_count": 287
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bHqIHC1sK5CzAS2XkF1jbyuS4ww.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80,
+        10749
+      ],
+      "id": 237,
+      "original_language": "en",
+      "original_title": "Young Adam",
+      "overview": "A young drifter working on a river barge disrupts his employers' lives while hiding the fact that he knows more about a dead woman found in the river than he admits.",
+      "popularity": 9.904,
+      "poster_path": "/rU5GJ5r4tQbSx9C2ENKbPkD6nr9.jpg",
+      "release_date": "2003-09-26",
+      "title": "Young Adam",
+      "video": false,
+      "vote_average": 5.877,
+      "vote_count": 154
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uw3Tld8IZDfOipAYGuTYhjopCUi.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 249,
+      "original_language": "en",
+      "original_title": "The War of the Roses",
+      "overview": "The Roses, Barbara and Oliver, live happily as a married couple. Then she starts to wonder what life would be like without Oliver, and likes what she sees. Both want to stay in the house, and so they begin a campaign to force each other to leave. In the middle of the fighting is D'Amato, the divorce lawyer. He gets to see how far both will go to get rid of the other, and boy do they go far.",
+      "popularity": 15.162,
+      "poster_path": "/k2l2df0XlY58wfr7a3RPJ59qmxl.jpg",
+      "release_date": "1989-12-08",
+      "title": "The War of the Roses",
+      "video": false,
+      "vote_average": 6.884,
+      "vote_count": 1033
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27,
+        18,
+        10770
+      ],
+      "id": 202626,
+      "original_language": "en",
+      "original_title": "Night Cries",
+      "overview": "A young woman whose baby died in childbirth refuses to believe it and has dreams that her child is still alive and in danger. A scientist who is conducting experiments about dreams tries to help her.",
+      "popularity": 1.989,
+      "poster_path": "/nXOaVGtrPYEZMaPvwanm0CsEnPy.jpg",
+      "release_date": "1978-01-29",
+      "title": "Night Cries",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mM0AC1BkvMka3RwQxvOWPh0FDDu.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1093758,
+      "original_language": "en",
+      "original_title": "Present",
+      "overview": "An estranged brother and sister reconnect after a troubling family event.",
+      "popularity": 0.6,
+      "poster_path": "/gpKm18vf8kRhXWDP9CYsSErY2uF.jpg",
+      "release_date": "2023-03-01",
+      "title": "Present",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cL37oOwZQRkwIkJIxUExHAJw7LA.jpg",
+      "genre_ids": [
+        16,
+        18
+      ],
+      "id": 796216,
+      "original_language": "en",
+      "original_title": "DAMIEN",
+      "overview": "Damien and his sister Celine are in a wood cabin in a snowy forest. One day, when Damien goes to get wood he hears something strange...",
+      "popularity": 0.6,
+      "poster_path": "/dldJjkf1usihrxrOb7BeKU3PB5g.jpg",
+      "release_date": "2019-05-12",
+      "title": "DAMIEN",
+      "video": false,
+      "vote_average": 9,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 10647,
+  "total_results": 212929
+}

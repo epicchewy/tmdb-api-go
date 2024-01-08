@@ -1,0 +1,21 @@
+run:
+  go: '1.21'
+
+linters:
+  enable:
+    - bodyclose
+    - durationcheck
+    - errchkjson
+    - goconst
+    - gocritic
+    - gofmt
+    - goimports
+    - gomnd
+    - ineffassign
+    - nakedret
+    - prealloc
+    - reassign
+    - rowserrcheck
+    - unconvert
+    # - unparam
+    - whitespace
